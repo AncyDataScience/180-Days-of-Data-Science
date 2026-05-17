@@ -4,3 +4,6 @@
 - **Day 1 (May 18, 2026):** Created my GitHub profile, set up my master repository, and committed to a 6-month daily learning habit.
   
 - **Day 1 (May 18, 2026):** Started learning SQL basics. Mastered the syntax for the `SELECT` and `FROM` statements to retrieve specific columns from databases.
+  
+- **Day 1 (May 18, 2026):** Mastered SQL retrieval foundations using `SELECT` and `FROM`. Wrote 9 production-ready queries across three database tables (`Flights`, `Passengers`, and `Baggage_Logs`). Solved practical aviation business cases including flight delay mapping, jet fuel sustainability tracking, international passenger nationality checks, and aircraft weight-balancing analysis.
+  
