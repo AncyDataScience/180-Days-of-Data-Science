@@ -7,3 +7,5 @@
   
 - **Day 1 (May 18, 2026):** Mastered SQL retrieval foundations using `SELECT` and `FROM`. Wrote 9 production-ready queries across three database tables (`Flights`, `Passengers`, and `Baggage_Logs`). Solved practical aviation business cases including flight delay mapping, jet fuel sustainability tracking, international passenger nationality checks, and aircraft weight-balancing analysis.
   
+- **Day 2 (May 19, 2026):** Advanced to conditional data filtering using the SQL `WHERE` clause. Developed 5 targeted scripts to filter raw aviation rows based on text matching and numerical thresholds. Solved operational test cases including identifying high fuel-burn anomalies, isolating extreme weather delay disruptions (>120 mins), and auditing hub-specific traffic patterns for Doha (DOH) and Oslo (OSL).
+  
