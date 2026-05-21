@@ -11,7 +11,7 @@
   
 - **Day 3 (May 20, 2026):** Mastered multi-conditional logic utilizing SQL `AND` and `OR` operators. Authored 10 advanced scripts to cross-reference multiple business criteria simultaneously across three operational datasets (`Flights`, `Cargo_Shipments`, and `Crew_Logs`). Engineered data filters to isolate temperature-sensitive European cargo, audit high-weight freight safety parameters, flag flight deck seniority metrics, and optimize emergency crew staffing models for Doha operations.
 
-- **Day 5 (May 21, 2026):** Implemented SQL query optimization techniques utilizing the `IN` and `BETWEEN` operators. Developed 10 efficient scripts to replace redundant logical clauses across five operational datasets (`Flights`, `Passengers`, `Baggage_Logs`, `Aircraft_Fleets`, and `Terminal_Gates`). Solved enterprise use cases including multi-hub departure aggregation, mid-tier fleet age audits (5–12 years), engineering maintenance forecasting, and heavy aircraft parking wingspan constraints.
+- **Day 4 (May 21, 2026):** Implemented SQL query optimization techniques utilizing the `IN` and `BETWEEN` operators. Developed 10 efficient scripts to replace redundant logical clauses across five operational datasets (`Flights`, `Passengers`, `Baggage_Logs`, `Aircraft_Fleets`, and `Terminal_Gates`). Solved enterprise use cases including multi-hub departure aggregation, mid-tier fleet age audits (5–12 years), engineering maintenance forecasting, and heavy aircraft parking wingspan constraints.
 
 
    
