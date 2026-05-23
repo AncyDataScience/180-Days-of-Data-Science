@@ -15,8 +15,8 @@
 
  - **Day 5 (May 22, 2026):** Mastered database integrity auditing using `IS NULL` and `IS NOT NULL` operators. Developed 10 operational scripts to isolate incomplete records across three corporate datasets (`Flight_Status`, `Passenger_Profiles`, and `Baggage_Claims`). Solved enterprise use cases including unassigned gate tracking, passenger loyalty campaign filtering, missing emergency safety contact compliance audits, and financial insurance reconciliation.
 
- - - **Day 6 (May 23, 2026):** Mastered query output structure and prioritization using the `ORDER BY` clause with `ASC` and `DESC` modifiers. Developed 5 targeted operational sorting models. Solved enterprise use cases including bubbling critical delay anomalies to supervisor dashboards, ranking flight fleets by progressive fuel burn profiles, and combining conditional row filters with multi-layered ranking hierarchies.
-   - 
+- **Day 6 (May 23, 2026):** Mastered query output structure and prioritization using the `ORDER BY` clause with `ASC` and `DESC` modifiers. Developed 5 targeted operational sorting models. Solved enterprise use cases including bubbling critical delay anomalies to supervisor dashboards, ranking flight fleets by progressive fuel burn profiles, and combining conditional row filters with multi-layered ranking hierarchies.
+  
 
 
    
