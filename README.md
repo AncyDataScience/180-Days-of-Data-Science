@@ -20,6 +20,7 @@
 - **Day 7 (May 25, 2026):** Implemented database output control using the SQL `LIMIT` clause. Combined filtering conditions, multi-layered sorting hierarchies, and precise row caps to construct clean "Top-X" executive dashboards across two corporate datasets (`Flights` and `Ticketing_Transactions`). Solved enterprise use cases including isolating maximum active flight disruptions, extracting real-time transactional data pipelines, and analyzing high-yield premium passenger consumer behavior patterns.
   
 
+- **Day 8 (May 31, 2026):** Mastered fuzzy string matching and text pattern recognition utilizing the SQL `LIKE` operator and `%` wildcards. Authored 15 advanced analytical scripts to parse unstandardized text blocks across three distinct production datasets (`Global_Routes`, `Passenger_Manifests`, and `Incident_Logs`). Solved high-priority enterprise use cases including VIP manifest routing, official corporate domain verification, fleet tail number segregation, and multi-conditional critical safety incident text parsing.
 
    
     
