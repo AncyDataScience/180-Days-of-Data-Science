@@ -23,6 +23,9 @@
 
 - **Day 9 (June 1, 2026):** Advanced into macro-level database mathematics utilizing SQL Aggregate Functions (`COUNT`, `SUM`, `AVG`). Transitioned from micro row-filtering to calculating high-level corporate performance indicators across two corporate datasets (`Flights` and `Air_Cargo_Shipments`). Solved enterprise business use cases including global fleet throughput auditing, cumulative payload weight baselining, medical cold-chain tonnage extraction, and regional APAC cost trend analysis.
 
+- **Day 10 (June 2, 2026):** Mastered peak and valley data analysis utilizing SQL extreme-value functions (`MAX`, `MIN`). Combined mathematical bounds with conditional filtering to uncover operational thresholds across two distinct production environments (`Flights` and `Airport_Fuel_Tanks`). Solved enterprise use cases including worst-case fuel budget forecasting, fuel reserve capacity floor alerting, logistical refill scheduling, and infrastructure safety compliance timeline tracking.
+
+
 
 
   
