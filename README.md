@@ -25,6 +25,9 @@
 
 - **Day 10 (June 2, 2026):** Mastered peak and valley data analysis utilizing SQL extreme-value functions (`MAX`, `MIN`). Combined mathematical bounds with conditional filtering to uncover operational thresholds across two distinct production environments (`Flights` and `Airport_Fuel_Tanks`). Solved enterprise use cases including worst-case fuel budget forecasting, fuel reserve capacity floor alerting, logistical refill scheduling, and infrastructure safety compliance timeline tracking.
 
+- **Day 11 (June 3, 2026):** Implemented clean data presentation layers using SQL Column Aliases (`AS`). Mastered syntax governance for structural naming conventions, including single-word, snake_case underscores, and double-quoted corporate whitespace labeling across two separate schemas (`Flights` and `Passenger_Refunds`). Solved enterprise use cases including executive dashboard configuration, abstracting technical formulas for non-technical stakeholders, tier-specific compensation tracking, and formatting corridor SLA threshold reports.
+
+
 
 
 
