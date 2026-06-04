@@ -27,6 +27,8 @@
 
 - **Day 11 (June 3, 2026):** Implemented clean data presentation layers using SQL Column Aliases (`AS`). Mastered syntax governance for structural naming conventions, including single-word, snake_case underscores, and double-quoted corporate whitespace labeling across two separate schemas (`Flights` and `Passenger_Refunds`). Solved enterprise use cases including executive dashboard configuration, abstracting technical formulas for non-technical stakeholders, tier-specific compensation tracking, and formatting corridor SLA threshold reports.
 
+- **Day 12 (June 4, 2026):** Advanced into intermediate data analysis utilizing the SQL `GROUP BY` clause. Mastered structural categorization of granular logs into consolidated reporting matrices across two operational datasets (`Flights` and `Global_Customer_Support`). Combined row-level filters (`WHERE`) with categorical aggregations to solve enterprise use cases including market share mapping, global support hub throughput profiling, customer service SLA baselining, and high-friction operational bottleneck tracking.
+
 
 
 
