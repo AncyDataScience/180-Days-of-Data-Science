@@ -29,6 +29,9 @@
 
 - **Day 12 (June 4, 2026):** Advanced into intermediate data analysis utilizing the SQL `GROUP BY` clause. Mastered structural categorization of granular logs into consolidated reporting matrices across two operational datasets (`Flights` and `Global_Customer_Support`). Combined row-level filters (`WHERE`) with categorical aggregations to solve enterprise use cases including market share mapping, global support hub throughput profiling, customer service SLA baselining, and high-friction operational bottleneck tracking.
 
+- **Day 13 (June 5, 2026):** Completed the database mathematics core by mastering categorical sorting using `ORDER BY` in combination with `GROUP BY`. Implemented full-pipeline query execution chains filtering raw data, aggregating structural dimensions, mapping custom aliases, and generating optimized leaderboards across two separate schemas (`Flights` and `Airport_WiFi_Sessions`). Solved enterprise use cases including carrier market share ranking, regional fuel-efficiency auditing, cumulative network bandwidth profiling, and isolating top-tier wireless hardware dropouts.
+- 
+
 
 
 
