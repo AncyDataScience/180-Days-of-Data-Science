@@ -66,3 +66,71 @@ WHERE Building_Zone = 'Research-Lab'
 GROUP BY Department
 HAVING AVG(Risk_Score) > 50
 ORDER BY Core_Avg_Risk DESC;
+
+-- Part 3: Metropolitan Mass Transit Network & Smart-City Fleet Analytics
+
+-- Query 11: Systemic line delay filtering for schedule variance tracking
+SELECT Line_Color, AVG(Delay_Minutes) AS Avg_Line_Delay
+FROM Metropolitan_Transit_Trains
+GROUP BY Line_Color
+HAVING AVG(Delay_Minutes) > 12;
+
+-- Query 12: Severe disruption spike tracking to isolate infrastructure issues
+SELECT Line_Color, MAX(Delay_Minutes) AS Peak_Line_Delay
+FROM Metropolitan_Transit_Trains
+GROUP BY Line_Color
+HAVING MAX(Delay_Minutes) > 45;
+
+-- Query 13: High-performance transit line efficiency benchmarking
+SELECT Line_Color, MIN(Delay_Minutes) AS Best_Line_Delay
+FROM Metropolitan_Transit_Trains
+GROUP BY Line_Color
+HAVING MIN(Delay_Minutes) < 2;
+
+-- Query 14: Overloaded route detection monitoring cumulative passenger volumes
+SELECT Line_Color, SUM(Passenger_Count) AS Total_Commuters
+FROM Metropolitan_Transit_Trains
+GROUP BY Line_Color
+HAVING SUM(Passenger_Count) > 15000;
+
+-- Query 15: Rolling stock asset density tracking across active deployments
+SELECT Train_Model, COUNT(*) AS Active_Train_Count
+FROM Metropolitan_Transit_Trains
+GROUP BY Train_Model
+HAVING COUNT(*) > 8;
+
+-- Query 16: Model-specific capacity loading audits for overcrowding analysis
+SELECT Train_Model, AVG(Passenger_Count) AS Avg_Model_Load
+FROM Metropolitan_Transit_Trains
+GROUP BY Train_Model
+HAVING AVG(Passenger_Count) > 1200;
+
+-- Query 17: Rush-hour strain sorting ranking lines by highest commuter averages
+SELECT Line_Color, AVG(Passenger_Count) AS Rush_Hour_Avg
+FROM Metropolitan_Transit_Trains
+GROUP BY Line_Color
+HAVING AVG(Passenger_Count) > 2500
+ORDER BY Rush_Hour_Avg DESC;
+
+-- Query 18: Model disruption leaderboard ranking equipment variance boundaries
+SELECT Train_Model, MAX(Delay_Minutes) AS Model_Max_Delay
+FROM Metropolitan_Transit_Trains
+GROUP BY Train_Model
+HAVING MAX(Delay_Minutes) > 30
+ORDER BY Model_Max_Delay ASC;
+
+-- Query 19: Filtered Blue Line corridor audit tracking model-specific volume loads
+SELECT Train_Model, SUM(Passenger_Count) AS Blue_Line_Model_Total
+FROM Metropolitan_Transit_Trains
+WHERE Line_Color = 'Blue'
+GROUP BY Train_Model
+HAVING SUM(Passenger_Count) > 5000;
+
+-- Query 20: Commissioner's Grand Master Pipeline ranking high-occupancy delay vectors
+SELECT Train_Model, AVG(Delay_Minutes) AS Final_Avg_Delay
+FROM Metropolitan_Transit_Trains
+WHERE Passenger_Count > 800
+GROUP BY Train_Model
+HAVING AVG(Delay_Minutes) > 15
+ORDER BY Final_Avg_Delay DESC;
+
