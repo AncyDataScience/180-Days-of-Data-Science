@@ -31,8 +31,9 @@
 
 - **Day 13 (June 5, 2026):** Completed the database mathematics core by mastering categorical sorting using `ORDER BY` in combination with `GROUP BY`. Implemented full-pipeline query execution chains filtering raw data, aggregating structural dimensions, mapping custom aliases, and generating optimized leaderboards across two separate schemas (`Flights` and `Airport_WiFi_Sessions`). Solved enterprise use cases including carrier market share ranking, regional fuel-efficiency auditing, cumulative network bandwidth profiling, and isolating top-tier wireless hardware dropouts.
 
-- **Day 14 (June 8, 2026):** Advanced into advanced data filtration architectures utilizing the SQL `HAVING` clause. Mastered operational boundaries between pre-aggregation row filters (`WHERE`) and post-aggregation group filters (`HAVING`) across two operational datasets (`Flights` and `Employee_Security_Logs`). Constructed multi-layered pipeline operations sequencing row extraction, dimensional grouping, macro metric filtering, and hierarchical sorting to isolate critical systemic bottlenecks, fleet environmental anomalies, and facility cybersecurity threats.
-- 
+- **Day 14 (June 8, 2026):** Deployed advanced post-aggregation data filtration architectures using the SQL `HAVING` clause. Engineered 20 production-grade data pipelines across three complex operational registries (`Flights`, `Employee_Security_Logs`, and `Metropolitan_Transit_Trains`). Combined row-level extractions (`WHERE`), multi-dimensional structural grouping (`GROUP BY`), mathematical metrics filtering (`HAVING`), and hierarchical leaderboard ordering to extract high-risk cybersecurity vulnerabilities, fleet transit bottlenecks, and systemic infrastructure capacity overflows.
+
+  
 
   
 
