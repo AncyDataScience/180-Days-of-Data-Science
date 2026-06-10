@@ -34,7 +34,9 @@
 - **Day 14 (June 8, 2026):** Deployed advanced post-aggregation data filtration architectures using the SQL `HAVING` clause. Engineered 20 production-grade data pipelines across three complex operational registries (`Flights`, `Employee_Security_Logs`, and `Metropolitan_Transit_Trains`). Combined row-level extractions (`WHERE`), multi-dimensional structural grouping (`GROUP BY`), mathematical metrics filtering (`HAVING`), and hierarchical leaderboard ordering to extract high-risk cybersecurity vulnerabilities, fleet transit bottlenecks, and systemic infrastructure capacity overflows.
 
 - **Day 15 (June 9, 2026):** Mastered data deduplication and structural data sanitation utilizing the SQL `DISTINCT` keyword. Engineered 15 production-grade analytics scripts across two distinct corporate systems (`Flights` and `Customer_Campaign_Interactions`). Combined `DISTINCT` inside standard `COUNT` functions alongside `GROUP BY` and `HAVING` parameters to extract true human footprint reach, omni-channel deployment diversity, and campaign-specific loyalty engagement leaderboards.
-  
+
+- **Day 16 (June 10, 2026):** Mastered programmatic text standardization and string manipulation using the SQL `UPPER()` and `LOWER()` functions. Engineered 15 production-grade data pipelines across two distinct enterprise applications (`Flights` and `Global_Cargo_Manifests`). Combined string transformations directly within filtering clauses (`WHERE`, `HAVING`) and grouping vectors (`GROUP BY`) to eliminate data fragmentation caused by mixed-case typographic entry errors.
+
 
   
 
