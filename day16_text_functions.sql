@@ -73,3 +73,29 @@ WHERE LOWER(Origin_Hub) = 'doh'
 AND Weight_KG > 2000
 GROUP BY LOWER(Cargo_Type)
 ORDER BY Unique_Global_Destinations DESC;
+
+-- Part 3: Qatar Airways Privilege Club Passenger Profile Text Standardization
+
+-- Query 16: Elite tier inventory audit enforcing uniform uppercase membership classifications
+SELECT DISTINCT UPPER(Membership_Tier) AS Clean_Membership_Tiers
+FROM Qatar_Airways_Bookings;
+
+-- Query 17: Lowercase customer index serialization for master system traveler profiles
+SELECT DISTINCT LOWER(Passenger_Name) AS Indexed_Passenger_Names
+FROM Qatar_Airways_Bookings;
+
+-- Query 18: Case-insensitive cabin volume tracking counting total individual First Class bookings
+SELECT COUNT(*) AS Total_First_Class_Bookings
+FROM Qatar_Airways_Bookings
+WHERE LOWER(Travel_Class) = 'first';
+
+-- Query 19: High-value customer asset summation calculating cumulative platinum tier points
+SELECT SUM(Loyalty_Points_Earned) AS Total_Platinum_Tier_Points
+FROM Qatar_Airways_Bookings
+WHERE LOWER(Membership_Tier) = 'platinum';
+
+-- Query 20: Advanced text-standardized pipeline isolating unique booking classes for target flyers
+SELECT DISTINCT UPPER(Travel_Class) AS Ahmed_Booked_Classes
+FROM Qatar_Airways_Bookings
+WHERE LOWER(Passenger_Name) = 'ahmed';
+
