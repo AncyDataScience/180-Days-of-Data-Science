@@ -39,6 +39,9 @@
 
 - **Day 17 (June 11, 2026):** Mastered structural data parsing and text extraction using the SQL `SUBSTR()` function. Engineered 10 production-grade data pipelines across two operational systems (`Flight_Tracking_Codes` and `Privilege_Club_Transactions`). Successfully integrated string parsing criteria inside conditional filters (`WHERE`), multidimensional categorical group vectors (`GROUP BY`), and volume constraints (`HAVING`) to analyze legacy client data.
 
+- **Day 18 (June 12, 2026):** Mastered partial string pattern-matching using the SQL `LIKE` operator combined with the `%` wildcard. Engineered 10 production-grade data pipelines across two operational systems (`Aviation_Inventory` and `Customer_Feedback_Hub`). Successfully integrated string pattern criteria inside conditional filters (`WHERE`), multidimensional categorical group vectors (`GROUP BY`), and complex analytical constraints (`HAVING`) to isolate critical service failures.
+
+
 
   
    
