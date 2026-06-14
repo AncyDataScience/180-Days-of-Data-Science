@@ -42,6 +42,9 @@
 - **Day 18 (June 12, 2026):** Mastered partial string pattern-matching using the SQL `LIKE` operator combined with the `%` wildcard. Engineered 10 production-grade data pipelines across two operational systems (`Aviation_Inventory` and `Customer_Feedback_Hub`). Successfully integrated string pattern criteria inside conditional filters (`WHERE`), multidimensional categorical group vectors (`GROUP BY`), and complex analytical constraints (`HAVING`) to isolate critical service failures.
 
 - **Day 19 (June 13, 2026):** Mastered precision structural pattern-matching using the SQL Underscore wildcard (`_`) to enforce strict character-length compliance. Designed positional data-mining scripts to audit alphanumeric enterprise inventory tracking codes and multi-character warehouse facility mappings without relying on open-ended text string searches.
+
+- **Day 20 (June 14, 2026):** Mastered transactional missing-data filtration using the SQL `IS NULL` and `IS NOT NULL` conditional operators. Engineered 10 production-grade data pipelines across two distinct enterprise applications (`Hangar_Maintenance_Logs` and `Cargo_Shipping_Manifests`). Successfully integrated null criteria inside structural filtering clauses (`WHERE`), multidimensional categorical group vectors (`GROUP BY`), and descending operational leaderboards (`ORDER BY`).
+
   
 
 
