@@ -45,6 +45,9 @@
 
 - **Day 20 (June 14, 2026):** Mastered transactional missing-data filtration using the SQL `IS NULL` and `IS NOT NULL` conditional operators. Engineered 10 production-grade data pipelines across two distinct enterprise applications (`Hangar_Maintenance_Logs` and `Cargo_Shipping_Manifests`). Successfully integrated null criteria inside structural filtering clauses (`WHERE`), multidimensional categorical group vectors (`GROUP BY`), and descending operational leaderboards (`ORDER BY`).
 
+- **Day 21 (June 15, 2026):** Mastered programmatic missing-data substitution and string normalization using the SQL `COALESCE()` function. Engineered 10 production-grade data pipelines across two distinct enterprise applications (`Customer_Service_Tracker` and `Hangar_Parts_Inventory`). Successfully integrated multi-parameter fallback structures inside mathematical aggregates (`SUM`), conditional limits (`HAVING`), and categorical matrix group vectors (`GROUP BY`).
+
+
   
 
 
