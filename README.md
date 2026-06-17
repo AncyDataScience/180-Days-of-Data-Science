@@ -48,6 +48,9 @@
 - **Day 21 (June 15, 2026):** Mastered programmatic missing-data substitution and string normalization using the SQL `COALESCE()` function. Engineered 10 production-grade data pipelines across two distinct enterprise applications (`Customer_Service_Tracker` and `Hangar_Parts_Inventory`). Successfully integrated multi-parameter fallback structures inside mathematical aggregates (`SUM`), conditional limits (`HAVING`), and categorical matrix group vectors (`GROUP BY`).
 
 - **Day 22 (June 17, 2026):** Executed a deep-dive mastery session on advanced `COALESCE()` architectures. Designed multi-column fallback priority chains to extract secondary and tertiary emergency contact endpoints. Validated structural SQL syntax rules by properly encapsulating missing-data zero substitutions entirely within mathematical wrapper functions (`SUM()`) and raw analytical limit parameters (`HAVING`).
+
+- **Day 22 (June 17, 2026):** Unlocked dynamic conditional formatting using the SQL `CASE WHEN` statement. Engineered "If-Then-Else" architectures directly into data extraction pipelines to classify operational string categories and calculate multi-tier numerical penalty matrices. Successfully nested full `CASE` vectors within `SUM()` aggregations and dynamic `GROUP BY` clusters.
+
   
 
 
