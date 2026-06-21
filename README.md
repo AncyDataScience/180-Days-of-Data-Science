@@ -55,7 +55,10 @@
 
 - **Day 24 (June 19, 2026):** Mastered multi-layered corporate logic by integrating `AND` / `OR` logical operators inside `CASE WHEN` conditional frameworks. Engineered 10 complex parameter pipelines for aviation delay tracking, calculated dynamic financial penalty blocks, and mirrored logic for exact spatial groupings. Refined professional workplace communication regarding Simple Past vs. Present Perfect tenses.
 
-- **Day 25 (June 20, 2026):** Upgraded conditional logic pipelines by integrating `IN` and `BETWEEN` operators directly inside `CASE WHEN` blocks. Replaced repetitive `OR`/`AND` statements with optimized, clean syntax to build dynamic categorical classification and numerical tiering frameworks. 
+- **Day 25 (June 20, 2026):** Upgraded conditional logic pipelines by integrating `IN` and `BETWEEN` operators directly inside `CASE WHEN` blocks. Replaced repetitive `OR`/`AND` statements with optimized, clean syntax to build dynamic categorical classification and numerical tiering frameworks.
+
+- **Day 26 (June 21, 2026):** Mastered temporal data manipulation using SQL Date and Time functions. Deployed `EXTRACT()` capabilities to isolate specific Year/Month variables and implemented dynamic timeline filtering using the `CURRENT_DATE` command. Successfully nested time-extraction functions directly within complex `CASE WHEN` logic pipelines and `GROUP BY` aggregations.
+
 
   
 
