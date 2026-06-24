@@ -61,8 +61,9 @@
 
 - **Day 27 (June 22, 2026):** Mastered advanced string manipulation for data cleaning and formatting. Engineered 10 dynamic queries utilizing `CONCAT()` for seamless text generation, `REPLACE()` for pipeline standardization, and `LENGTH()` for constraint auditing. Refined exact string-spacing rules within complex `CASE WHEN` logical architectures.
 
-- **Day 28 (June 23, 2026):** Mastered advanced text extraction and formatting by deploying `UPPER()`,`LOWER()` and `SUBSTRING()` functions. Engineered nested function pipelines (`SUBSTRING(UPPER(...))`) to automate data standardization and integrated text-extraction operations directly within `CONCAT()` wrappers and `WHERE` logical filters for international passenger manifest records. 
-  
+- **Day 28 (June 23, 2026):** Mastered advanced text extraction and formatting by deploying `UPPER()`,`LOWER()` and `SUBSTRING()` functions. Engineered nested function pipelines (`SUBSTRING(UPPER(...))`) to automate data standardization and integrated text-extraction operations directly within `CONCAT()` wrappers and `WHERE` logical filters for international passenger manifest records.
+
+- **Day 29 (June 24, 2026):** Advanced Relational Database architecture. Mastered the `INNER JOIN` clause to bridge disparate tables using primary/foreign key mapping. Utilized table aliases (`AS`) for optimized query structure and successfully integrated joins with `WHERE` filters, `ORDER BY` sorting, and multi-condition `CASE WHEN` logical pipelines.
 
 
   
