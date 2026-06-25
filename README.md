@@ -65,7 +65,7 @@
 
 - **Day 29 (June 24, 2026):** Advanced Relational Database architecture. Mastered the `INNER JOIN` clause to bridge disparate tables using primary/foreign key mapping. Utilized table aliases (`AS`) for optimized query structure and successfully integrated joins with `WHERE` filters, `ORDER BY` sorting, and multi-condition `CASE WHEN` logical pipelines.
 
-  - **Day 30 (June 25, 2026):** Reached the 1-Month Milestone! Advanced Relational Analytics. Successfully combined `INNER JOIN` architectures with core aggregation functions (`GROUP BY`, `SUM`, `COUNT`). Engineered complex row-level mathematical operations across multiple tables and deployed `HAVING` filters to isolate high-value analytical segments based on aggregated financial data.
+- **Day 30 (June 25, 2026):** Reached the 1-Month Milestone! Advanced Relational Analytics. Successfully combined `INNER JOIN` architectures with core aggregation functions (`GROUP BY`, `SUM`, `COUNT`). Engineered complex row-level mathematical operations across multiple tables and deployed `HAVING` filters to isolate high-value analytical segments based on aggregated financial data.
     
 
 
