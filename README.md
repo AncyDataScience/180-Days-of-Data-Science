@@ -71,7 +71,7 @@
 
 - **Day 32 (June 29, 2026):** Scaled relational database architecture by chaining multiple `INNER JOIN` clauses. Successfully engineered unified master datasets drawing from 3 separate tables. Integrated advanced multi-table mapping with `WHERE` filters and `GROUP BY` aggregations to extract complex operational insights without breaking logical sequence rules.
 
-- - **Day 33 (June 30, 2026):** Mastered SQL Subqueries (Nested Queries). Engineered multi-layered filtering architectures where inner queries dynamically compute baseline metrics (MAX, AVG) and text-matching parameters to automatically drive the logical filtering operations of outer `SELECT` statements.
+- **Day 33 (June 30, 2026):** Mastered SQL Subqueries (Nested Queries). Engineered multi-layered filtering architectures where inner queries dynamically compute baseline metrics (MAX, AVG) and text-matching parameters to automatically drive the logical filtering operations of outer `SELECT` statements.
 
 
 
