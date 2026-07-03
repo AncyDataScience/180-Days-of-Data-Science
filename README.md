@@ -77,6 +77,8 @@
 
 - **Day 34 (July 1, 2026):** Double Mastery Day! Advanced to Multi-Row Subqueries using `IN` and `NOT IN` operators for dynamic dataset cross-referencing. Upgraded architectural skills by implementing Common Table Expressions (CTEs) using the `WITH` clause, transforming complex, multi-layered queries into highly readable, modular, and professional code structures.
 
+- **Day 35 (July 3, 2026):** Mastered Window Functions for advanced, non-aggregating data rankings. Implemented `ROW_NUMBER()` and `RANK()` coupled with `PARTITION BY` architectures to segment and analyze distinct passenger loyalty tiers. Successfully integrated Window Functions within Common Table Expressions (CTEs) to bypass standard filtering limitations.
+- 
 
 
 
