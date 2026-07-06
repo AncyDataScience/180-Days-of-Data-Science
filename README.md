@@ -80,6 +80,9 @@
 - **Day 35 (July 3, 2026):** Mastered Window Functions for advanced, non-aggregating data rankings. Implemented `ROW_NUMBER()` and `RANK()` coupled with `PARTITION BY` architectures to segment and analyze distinct passenger loyalty tiers. Successfully integrated Window Functions within Common Table Expressions (CTEs) to bypass standard filtering limitations.
 
 - **Day 36 (July 5, 2026):** Mastered temporal data navigation using `LAG()` and `LEAD()` Window Functions. Built predictive and comparative delay-tracking queries by partitioning historical aircraft data. Successfully integrated these time-travel functions within CTEs to filter escalating performance metrics, critical for airline operational efficiency.
+
+- **Day 37 (July 6, 2026):** Mastered vertical data integration using `UNION` and `UNION ALL` set operations. Combined active and archived relational tables while maintaining strict structural alignment. Implemented custom hardcoded tracking columns and global `ORDER BY` sorting across stacked datasets.
+
  
 
 
