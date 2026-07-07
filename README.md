@@ -83,7 +83,9 @@
 
 - **Day 37 (July 6, 2026):** Mastered vertical data integration using `UNION` and `UNION ALL` set operations. Combined active and archived relational tables while maintaining strict structural alignment. Implemented custom hardcoded tracking columns and global `ORDER BY` sorting across stacked datasets.
 
- 
+
+- **Day 38 (July 7, 2026):** Transitioned to Database Architecture. Successfully utilized Data Definition Language (DDL) to engineer `CREATE TABLE` schemas with defined data types (`INT`, `VARCHAR`). Applied Data Manipulation Language (DML) executing `INSERT INTO` commands to populate schemas with single and multi-row datasets for an airline VIP system.
+
 
 
 
