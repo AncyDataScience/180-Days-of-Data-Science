@@ -87,6 +87,9 @@
 
 - **Day 39 (July 20, 2026):** Mastered critical Data Manipulation Language (DML) operations. Engineered safe and precise `UPDATE` statements to modify existing text and numeric arrays dynamically. Executed targeted and bulk `DELETE` operations using strict `WHERE` clause constraints to ensure database integrity.
 
+- **Day 40 (July 21, 2026):** Mastered advanced Data Definition Language (DDL) operations. Engineered `ALTER TABLE` pipelines to dynamically add, rename, and drop structural columns. Executed `TRUNCATE TABLE` for high-efficiency data clearance and `DROP TABLE` for permanent schema modification. 
+
+
 
 
 
