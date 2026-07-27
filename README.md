@@ -2,7 +2,9 @@
 "This repository tracks my 6-month journey to becoming a Data Scientist. I am committing code every single day to master SQL, Python, Power BI, and Machine Learning."
 ## My Daily Progress Log:
 - **Day 1 (May 18, 2026):** Created my GitHub profile, set up my master repository, and committed to a 6-month daily learning habit.
-  
+   
+### SQL ###
+
 - **Day 1 (May 18, 2026):** Started learning SQL basics. Mastered the syntax for the `SELECT` and `FROM` statements to retrieve specific columns from databases.
   
 - **Day 1 (May 18, 2026):** Mastered SQL retrieval foundations using `SELECT` and `FROM`. Wrote 9 production-ready queries across three database tables (`Flights`, `Passengers`, and `Baggage_Logs`). Solved practical aviation business cases including flight delay mapping, jet fuel sustainability tracking, international passenger nationality checks, and aircraft weight-balancing analysis.
@@ -96,6 +98,11 @@
 - **Day 43 (July 24, 2026):** Mastered Database Performance Optimization. Engineered single, composite, and unique `INDEX` structures to accelerate query execution plans across large-scale datasets. Managed database storage and insertion efficiency by actively deploying `DROP INDEX` for obsolete index trees.
 
 - **Day 44 (July 26, 2026):** **SQL Phase Completed!** Successfully executed a comprehensive Capstone Project integrating all 4 pillars of SQL (DQL, DDL, DML, DCL). Engineered robust tables with strict constraints, performed dynamic data insertions, designed complex aggregations using `INNER JOIN`, and abstracted advanced Window Functions (`RANK()`) and CTEs into automated Database Views.
+
+### PYTHON ###
+
+- **Day 45 (July 27, 2026):** Initiated the Python Programming Phase. Mastered core syntax fundamentals including the `print()` function and variable assignment. Handled standard data types: Strings (`str`), Integers (`int`), Floats (`float`), and Booleans (`bool`), adhering to strict case-sensitivity and variable naming conventions.
+
 
 
 
