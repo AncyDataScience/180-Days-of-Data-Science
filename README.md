@@ -115,6 +115,9 @@
 
 - **Day 51 (August 3, 2026):** Initiated Data Science workflows using the `pandas` library. Engineered a Dictionary structure containing array data and successfully transformed it into a tabular `pd.DataFrame`, the foundational data structure for all modern Data Analysis.
 
+- **Day 52 (August 4, 2026):** Mastered Exploratory Data Analysis (EDA) basics using Pandas. Executed `df.head()` for data sampling, `df.info()` for structural metadata extraction, and `df.describe()` for automated statistical summaries (mean, standard deviation, quartiles) of numeric variables.
+  
+
 
    
 
