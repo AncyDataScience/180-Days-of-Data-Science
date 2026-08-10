@@ -122,6 +122,9 @@
 - **Day 54 (August 6, 2026):** Executed data modification and feature engineering using Pandas. Appended constant value columns and engineered a calculated metric (`Revenue`) by applying vectorized mathematical operations across multiple series, drastically optimizing workflow efficiency over traditional spreadsheet methods.
 
 - **Day 55 (August 7, 2026):** Implemented data sorting algorithms in Pandas. Utilized `df.sort_values()` to rank datasets in both default ascending order and descending order (`ascending=False`) to extract maximum/minimum performance metrics.
+
+- **Day 56 (August 10, 2026):** Mastered Data Cleaning techniques using Pandas. Identified null values using `df.isna().sum()`, executed row deletion with `df.dropna()`, and applied default value imputation using `df.fillna()` to maintain dataset integrity.
+  
   
   
 
