@@ -125,7 +125,7 @@
 
 - **Day 56 (August 10, 2026):** Mastered Data Cleaning techniques using Pandas. Identified null values using `df.isna().sum()`, executed row deletion with `df.dropna()`, and applied default value imputation using `df.fillna()` to maintain dataset integrity.
 
-- - **Day 57 (August 11, 2026):** Implemented data grouping and aggregation using Pandas. Utilized `df.groupby()` to segment categorical data and applied `.sum()` and `.mean()` mathematical functions to compute aggregated business metrics (similar to Pivot Tables).
+- **Day 57 (August 11, 2026):** Implemented data grouping and aggregation using Pandas. Utilized `df.groupby()` to segment categorical data and applied `.sum()` and `.mean()` mathematical functions to compute aggregated business metrics (similar to Pivot Tables).
 
   
   
