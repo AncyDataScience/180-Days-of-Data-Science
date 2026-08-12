@@ -127,6 +127,8 @@
 
 - **Day 57 (August 11, 2026):** Implemented data grouping and aggregation using Pandas. Utilized `df.groupby()` to segment categorical data and applied `.sum()` and `.mean()` mathematical functions to compute aggregated business metrics (similar to Pivot Tables).
 
+- **Day 58 (August 12, 2026):** Executed a comprehensive Pandas Capstone project. Built an end-to-end data pipeline that included data imputation (`fillna`), feature engineering (calculated columns), and data aggregation (`groupby` + `.sum()`) to solve a real-world business profit analysis.
+
   
   
   
