@@ -129,6 +129,9 @@
 
 - **Day 58 (August 12, 2026):** Executed a comprehensive Pandas Capstone project. Built an end-to-end data pipeline that included data imputation (`fillna`), feature engineering (calculated columns), and data aggregation (`groupby` + `.sum()`) to solve a real-world business profit analysis.
 
+- **Day 59 (August 13, 2026):** Mastered File I/O operations in Pandas. Executed `df.to_csv()` to export DataFrames into persistent storage (excluding index arrays), and utilized `pd.read_csv()` to ingest external CSV datasets into memory for analysis.
+
+
   
   
   
