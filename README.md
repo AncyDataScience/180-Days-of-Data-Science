@@ -131,7 +131,7 @@
 
 - **Day 59 (August 13, 2026):** Mastered File I/O operations in Pandas. Executed `df.to_csv()` to export DataFrames into persistent storage (excluding index arrays), and utilized `pd.read_csv()` to ingest external CSV datasets into memory for analysis.
 
-- **Day 60 (August 14, 2026):** Mastered relational data merging. Utilized `pd.merge()` to perform database-style joins on DataFrames sharing a common primary key column, effectively replacing traditional spreadsheet lookup functions.
+- **Day 60 (August 18, 2026):** Mastered relational data merging. Utilized `pd.merge()` to perform database-style joins on DataFrames sharing a common primary key column, effectively replacing traditional spreadsheet lookup functions.
 
 
   
