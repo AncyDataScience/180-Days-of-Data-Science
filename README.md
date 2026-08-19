@@ -133,6 +133,8 @@
 
 - **Day 60 (August 18, 2026):** Mastered relational data merging. Utilized `pd.merge()` to perform database-style joins on DataFrames sharing a common primary key column, effectively replacing traditional spreadsheet lookup functions.
 
+- **Day 61 (August 19, 2026):** Mastered Datetime conversion and extraction in Pandas. Converted string-based dates to datetime objects using `pd.to_datetime()` and utilized the `.dt` accessor to extract specific temporal features (like months) for time-series analysis.
+
 
   
   
