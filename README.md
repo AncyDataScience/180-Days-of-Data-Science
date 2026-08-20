@@ -135,6 +135,7 @@
 
 - **Day 61 (August 19, 2026):** Mastered Datetime conversion and extraction in Pandas. Converted string-based dates to datetime objects using `pd.to_datetime()` and utilized the `.dt` accessor to extract specific temporal features (like months) for time-series analysis.
 
+- **Day 62 (August 20, 2026):** Mastered string manipulation for data cleaning in Pandas. Utilized the `.str` accessor to standardize text formatting, specifically applying `.str.strip()` to remove leading/trailing whitespace and `.str.upper()` to enforce uniform capitalization across categorical columns.
 
   
   
