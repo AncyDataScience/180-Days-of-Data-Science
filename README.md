@@ -137,7 +137,8 @@
 
 - **Day 62 (August 20, 2026):** Mastered string manipulation for data cleaning in Pandas. Utilized the `.str` accessor to standardize text formatting, specifically applying `.str.strip()` to remove leading/trailing whitespace and `.str.upper()` to enforce uniform capitalization across categorical columns.
 
-  
+- **Day 63 (August 21, 2026):** Mastered categorical data analysis using Pandas. Utilized `value_counts()` to rapidly generate frequency distributions of categorical variables, and applied the `normalize=True` parameter to calculate relative percentage distributions.
+ 
   
   
 
