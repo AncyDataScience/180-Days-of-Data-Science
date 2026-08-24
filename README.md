@@ -139,7 +139,8 @@
 
 - **Day 63 (August 21, 2026):** Mastered categorical data analysis using Pandas. Utilized `value_counts()` to rapidly generate frequency distributions of categorical variables, and applied the `normalize=True` parameter to calculate relative percentage distributions.
  
-  
+- **Day 64 (August 24, 2026):** Bridged core Python functions with Pandas DataFrames. Implemented the `.apply()` method to broadcast a custom user-defined function (UDF) across an entire series, enabling complex, row-wise mathematical transformations without explicit iteration.
+
   
 
 
