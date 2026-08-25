@@ -141,6 +141,7 @@
  
 - **Day 64 (August 24, 2026):** Bridged core Python functions with Pandas DataFrames. Implemented the `.apply()` method to broadcast a custom user-defined function (UDF) across an entire series, enabling complex, row-wise mathematical transformations without explicit iteration.
 
+- **Day 65 (August 25, 2026):** Mastered complex DataFrame filtering in Pandas. Implemented multiple conditional statements using bitwise logical operators (`&` for AND, `|` for OR) to extract precise subsets of data based on business logic.
   
 
 
