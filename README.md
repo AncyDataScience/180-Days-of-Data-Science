@@ -145,7 +145,8 @@
 
 - **Day 66 (August 26, 2026):** Mastered data sorting and ranking in Pandas. Utilized the `sort_values()` function to organize DataFrame rows based on specific columns, applying the `ascending=False` parameter to extract top-down hierarchical views (descending order).
 
-
+- **Day 67 (August 27, 2026):** Mastered DataFrame restructuring in Pandas. Utilized `df.rename()` with dictionary mapping to standardize column headers, and applied `df.drop()` to remove irrelevant features, optimizing the dataset for downstream analysis.
+- 
    
 
 
